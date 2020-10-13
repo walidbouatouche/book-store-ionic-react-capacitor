@@ -1,0 +1,7 @@
+{
+  "name": "book-store-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
